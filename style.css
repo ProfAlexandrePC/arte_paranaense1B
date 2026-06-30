@@ -1,1 +1,17 @@
 
+body{
+    background-color: #FFD3F0;
+    color: #252F33;
+}
+header{
+    background-color: aquamarine;
+    color:bisque;
+}
+section{
+    background-color: blue;
+    color:yellow;
+}
+footer{
+    background-color: gray;
+    color:white;
+}
